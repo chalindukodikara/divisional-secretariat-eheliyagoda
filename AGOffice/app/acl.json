@@ -1,0 +1,31 @@
+{
+    "Guest": {
+        "denied": {},
+        "Login": ["index", "login", "register"],
+        "Restricted": ["*"]
+    },
+    "LoggedInMO": {
+        "denied": {
+            "Login": ["login", "register"]
+        },
+        "Login": ["index", "logout"],
+        "Medicalofficer": ["*"]
+    },
+    "LoggedInMI": {
+        "denied": {
+            "Login": ["login", "register"]
+        },
+        "Login": ["index", "logout"],
+        "Preport": ["*"],
+        "Dwreport": ["*"],
+        "Workplan": ["*"],
+        "Midwife": ["*"]
+    },
+    "LoggedInM": {
+        "denied": {
+            "Login": ["login", "register"]
+        },
+        "Login": ["index", "logout"],
+        "Mother": ["*"]
+    }
+}
