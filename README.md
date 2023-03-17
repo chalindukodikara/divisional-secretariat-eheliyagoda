@@ -26,7 +26,7 @@ Introducing a _**Web-Based Solution**_ for Divisional Secretariat Office Eheliya
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/225901070-cd3791c5-7672-4636-a0eb-d99ccd166321.png">
-</p>9
+</p>
 
 
 <p align="center">
